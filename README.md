@@ -1,1 +1,3 @@
-# AtCoderの問題のwriteupです。
+# AtCoder WriteUp
+
+コミット稼ぎのために作りました。
